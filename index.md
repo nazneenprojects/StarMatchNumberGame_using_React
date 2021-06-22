@@ -1,4 +1,3 @@
-This is simple React App to demonstrate ##StarMatchGame
-React Concepts which is being used in this project are : Components , Hooks, State 
+Sample Screen Shot 
 
 ![Image](/Star match.JPG)
